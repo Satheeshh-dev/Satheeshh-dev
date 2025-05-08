@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Satheeshkumar M</h1>
-<h3 align="center">Full-stack Developer | ERPNext Expert | React Frontend Craftsman</h3>
+<h1 align="center">Hey there! 👋 I'm Satheeshkumar</h1>
+<h3 align="center">Crafting smart backends with Python ⚙️ and delightful UIs with React 🎨</h3>
 
 <p align="center">
-    <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&pause=1000&color=7DCE94&center=true&vCenter=true&width=600&lines=Frappe+%7C+ERPNext+%7C+React+Dev;Automation+%7C+Integrations+%7C+APIs;Let's+build+great+software+together!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&pause=1000&color=7DCE94&center=true&vCenter=true&width=650&lines=Full-stack+Developer+%7C+Python+%2B+React+Specialist;Building+Frappe%2FERPNext+Solutions+That+Scale;Automation+%2C+APIs+%2C+Performance+-+I+do+it+all+🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -52,7 +53,6 @@
 - 🚀 Built & deployed 5+ **custom ERPNext apps**
 - 🔗 Integrated **Greythr** & **Hikvision** APIs for automation
 - ⚙️ Scripted realistic user load tests with **Locust**
-- 📱 Built and led **Progressive Web App** dev team (4 members)
 - 🔍 Optimized DB queries and improved app speed dramatically
 
 ---
