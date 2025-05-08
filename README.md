@@ -88,11 +88,11 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satheeshdev&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satheeshh-dev&theme=github-compact" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=satheeshdev.satheeshdev" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=satheeshh-dev.satheeshh-dev" alt="visitor badge"/>
 </p>
