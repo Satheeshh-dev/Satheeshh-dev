@@ -48,35 +48,6 @@
 
 ---
 
-### 🏆 Achievements
-
-- 🚀 Built & deployed 5+ **custom ERPNext apps**
-- 🔗 Integrated **Greythr** & **Hikvision** APIs for automation
-- ⚙️ Scripted realistic user load tests with **Locust**
-- 🔍 Optimized DB queries and improved app speed dramatically
-
----
-
-### 📌 Featured Projects
-
-| 🧩 Project | 🚀 Stack | 📄 Summary |
-|-----------|----------|------------|
-| **ERPNext Custom Apps** | Python, Frappe | Solved domain-specific problems with 5+ live deployments |
-| **Greythr Integration** | REST API, Python | Automated HR processes, onboarding, and payroll |
-| **Hikvision Biometric Sync** | Python, REST API | Enabled real-time, reliable attendance tracking |
-| **Stanch PWA** | React.js | Led frontend development and UX optimization |
-| **Locust Load Testing** | Python, Redis | Simulated production HRMS operations for stress testing |
-
----
-
-### 💡 Currently Working On
-
-- 🧠 Enhancing **Stanch App** frontend with performance-focused React components
-- ⚙️ Building API pipelines for smoother data sync
-- 🔍 Experimenting with **AI + automation** inside ERP workflows
-
----
-
 ### 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/satheesh-kumar-336612248/)
