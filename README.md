@@ -3,9 +3,6 @@
 
 <p align="center">
     <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=22&pause=1000&color=7DCE94&center=true&vCenter=true&width=600&lines=Frappe+%7C+ERPNext+%7C+React+Dev;Automation+%7C+Integrations+%7C+APIs;Let's+build+great+software+together!+🚀" alt="Typing SVG" />
-
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="100%" alt="Coding Banner" />
-
 </p>
 
 ---
