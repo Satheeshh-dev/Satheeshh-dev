@@ -2,7 +2,9 @@
 <h3 align="center">Full-stack Developer | ERPNext Expert | React Frontend Craftsman</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Frappe+%7C+ERPNext+%7C+React+Dev;Automation+%7C+Integrations+%7C+APIs;Let's+build+great+software+together!+🚀" alt="Typing SVG" />
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Frappe+%7C+ERPNext+%7C+React+Dev;Automation+%7C+Integrations+%7C+APIs;Let's+build+great+software+together!+🚀" alt="Typing SVG" /> -->
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="100%" alt="Coding Banner" />
+
 </p>
 
 ---
