@@ -1,68 +1,98 @@
-# 👋 Hi, I'm Satheeshkumar M
+<h1 align="center">Hi 👋, I'm Satheeshkumar M</h1>
+<h3 align="center">Full-stack Developer | ERPNext Expert | React Frontend Craftsman</h3>
 
-**Software Developer | Frappe & ERPNext Expert | React Enthusiast | Automation Builder**
-
-🚀 Passionate about crafting custom web solutions that make business operations smoother and smarter. From backend logic to seamless UI, I enjoy bringing full-stack ideas to life.
-
----
-
-## 👨‍💻 About Me
-
-- 💼 Currently working at **Stanch Solutions Pvt. Ltd**, developing custom apps and integrating enterprise tools.
-- 🧠 Experienced in building **custom ERPNext apps**, **React frontends**, and integrating **Greythr** & **Hikvision**.
-- 🛠️ Specialized in **Frappe Framework**, **React.js**, **Python**, **REST APIs**, and **automation tools** like **Locust**.
-- 📍 Based in **Bangalore, India**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Frappe+%7C+ERPNext+%7C+React+Dev;Automation+%7C+Integrations+%7C+APIs;Let's+build+great+software+together!+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🏗️ What I Do
+### 🧑‍💻 About Me
 
-### 🔧 Custom App Development (Frappe/ERPNext)
-- Built and deployed 5+ custom apps tailored for unique business needs.
-- Ensured seamless ERPNext integration for smooth user experiences and clean data flows.
-
-### 🧩 API Integrations
-- Automated HR processes via **Greythr API integration**.
-- Enabled real-time attendance tracking using **Hikvision Biometric API**.
-
-### ⚙️ Load Testing & DevOps
-- Created robust **Locust-based scripts** to simulate realistic user behavior.
-- Ensured scalability and performance under stress.
-
-### 🎨 Frontend Development
-- Building highly responsive UIs using **ReactJS**.
-- Contributing actively to **Stanch App** with dynamic components and intuitive layouts.
+- 💼 Software Developer at **Stanch Solutions Pvt. Ltd**
+- 🔧 Specialized in building custom apps on **Frappe & ERPNext**
+- 🎨 Currently crafting scalable frontends with **React.js**
+- 🤖 Passionate about **automation, APIs, and performance optimization**
+- 🌍 Based in Bangalore, India
 
 ---
 
-## 🏆 Achievements
+### 📊 GitHub Stats
 
-- ✅ Automated 50% of HR workflows by integrating Greythr.
-- 🚀 Boosted database performance by optimizing critical queries.
-- 🧑‍🤝‍🧑 Led a 4-member team to deliver a successful **Progressive Web App** (PWA).
-- 🌐 Built user-centric web pages focused on performance and responsiveness.
-
----
-
-## 🧰 Tech Stack
-
-- **Languages**: Python, JavaScript, HTML, CSS, Jinja
-- **Frameworks**: Frappe, React.js
-- **Databases**: MySQL
-- **Tools**: Git, GitHub, Locust, Redis
-- **Cloud**: AWS
-- **OS**: Linux, Windows
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satheeshdev&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satheeshdev&layout=compact&theme=radical" height="160"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+### ⚒️ Tech Stack
 
-- 🌐 [Portfolio](https://satheeshdev.in/)
+#### 👨‍💻 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Frappe](https://img.shields.io/badge/Frappe-blue?style=flat&logo=frappe&logoColor=white)
+
+#### 🔧 Tools & Services
+![ERPNext](https://img.shields.io/badge/ERPNext-blueviolet?style=flat)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-green?style=flat)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+
+---
+
+### 🏆 Achievements
+
+- 🚀 Built & deployed 5+ **custom ERPNext apps**
+- 🔗 Integrated **Greythr** & **Hikvision** APIs for automation
+- ⚙️ Scripted realistic user load tests with **Locust**
+- 📱 Built and led **Progressive Web App** dev team (4 members)
+- 🔍 Optimized DB queries and improved app speed dramatically
+
+---
+
+### 📌 Featured Projects
+
+| 🧩 Project | 🚀 Stack | 📄 Summary |
+|-----------|----------|------------|
+| **ERPNext Custom Apps** | Python, Frappe | Solved domain-specific problems with 5+ live deployments |
+| **Greythr Integration** | REST API, Python | Automated HR processes, onboarding, and payroll |
+| **Hikvision Biometric Sync** | Python, REST API | Enabled real-time, reliable attendance tracking |
+| **Stanch PWA** | React.js | Led frontend development and UX optimization |
+| **Locust Load Testing** | Python, Redis | Simulated production HRMS operations for stress testing |
+
+---
+
+### 💡 Currently Working On
+
+- 🧠 Enhancing **Stanch App** frontend with performance-focused React components
+- ⚙️ Building API pipelines for smoother data sync
+- 🔍 Experimenting with **AI + automation** inside ERP workflows
+
+---
+
+### 🌐 Let's Connect
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/satheesh-kumar-336612248/)
+- 🌐 [Portfolio](https://satheeshdev.in/)
 - 📧 [Email Me](mailto:contact@satheeshdev.in)
 
 ---
 
-> “Building systems that scale, solutions that matter, and experiences users love.”
+### 📈 Contribution Graph
 
-Thanks for visiting! ⭐️
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satheeshdev&theme=github-compact" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=satheeshdev.satheeshdev" alt="visitor badge"/>
+</p>
